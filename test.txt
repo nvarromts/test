@@ -1,0 +1,3 @@
+En la clase Filter, 
+	Que sentido tiene poner StringUtil.CLOSE_PARENTHESIS en lugar de ")". 
+	Por que poner "\\|\\|" en un string en lugar de poner directamente ||
